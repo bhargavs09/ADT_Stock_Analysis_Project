@@ -13,3 +13,7 @@ Stock prediction analysis predicts the efficient stock among the provided stocks
 | Applying Business logics  | Deepak, Yuva and Bhargav |  
 | Defining statistical formulas  | Yuva and Bhargav |  
 | Applying statistical prediction analysis | Deepak, Yuva and Bhargav |  
+| Developing dashboard | Bhargav and Yuva |
+| Integrating the prediction analysis in dashboard | Bhargav and Deepak |
+| Testing | Yuva and Deepak |
+| Final Milestone | Deepak, Yuva and Bhargav |
